@@ -122,11 +122,7 @@ if(isset($_POST['order_pay_btn'])){
             <hr class="mx-auto">
 		</div>
 		<div class="mx-auto container text-center">
-            
-     
-    
-    
-    
+          
     
 
       <?php if(isset($_POST['order_status']) && $_POST['order_status'] == "not paid"){ ?>

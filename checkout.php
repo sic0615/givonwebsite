@@ -151,7 +151,7 @@ if(!empty($_SESSION['cart'])){
 				</div>
 		<div class="form-group checkout-small-element">
 					<label>Phone Number</label>
-					<input type="tel" class="form-control" id="checkout-font" name="phone" placeholder="Phone" required/>
+					<input type="text" class="form-control" id="checkout-font" name="phone" placeholder="Phone" required/>
 				</div>
         <div class="form-group checkout-small-element">
                     <label>City</label>
